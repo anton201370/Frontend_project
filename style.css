@@ -762,7 +762,7 @@
     padding: 13px;
     display: flex;
     justify-content: space-between;
-    border-radius: 3px;
+    border-radius: 4px;
     box-shadow: 5px 10px 20px 5px rgb(53 110 173 / 13%);
 }
 
